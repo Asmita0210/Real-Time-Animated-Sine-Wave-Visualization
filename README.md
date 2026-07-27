@@ -11,7 +11,7 @@ A Python script that generates a dynamic, real-time scrolling sine wave animatio
 * **Optimized Rendering**: Uses blit=True with matplotlib.animation.FuncAnimation for efficient, high-frame-rate rendering.
 * **GIF Export Support**: Includes commented code to export the animation as an animated GIF using Pillow.
 
-<img src="visualisations/sine_wave.png" alt="Sine_wave" width="600"/>
+<img src="visualisations/sine_wave.gif" alt="Sine_wave" width="600"/>
 
 ## Prerequisites
 Ensure you have Python installed along with the required dependencies:
